@@ -8,9 +8,9 @@ Optuna - Automate Hyperparameter Tuning
 Genetic Algorithms (TPOT Classifier)
 References:
 
-https://github.com/fmfn/BayesianOptimization
-https://github.com/hyperopt/hyperopt
-https://www.jeremyjordan.me/hyperparameter-tuning/
-https://optuna.org/
-https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d(By Pier Paolo Ippolito )
-https://scikit-optimize.github.io/stable/auto_examples/hyperparameter-optimization.html
+##### https://github.com/fmfn/BayesianOptimization
+##### https://github.com/hyperopt/hyperopt
+##### https://www.jeremyjordan.me/hyperparameter-tuning/
+##### https://optuna.org/
+##### https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d(By Pier Paolo Ippolito )
+##### https://scikit-optimize.github.io/stable/auto_examples/hyperparameter-optimization.html
